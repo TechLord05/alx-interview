@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 Prime Game that calculate the winner base on the prime
-number choose in the given set of numbers. 
+number choose in the given set of numbers.
 """
 
 
